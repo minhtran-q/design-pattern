@@ -40,7 +40,7 @@ The _Singleton_ pattern addresses the following problems:
   <summary>Example with code</summary>
   <br/>
   
-  Ref: 
+  Ref: https://sourcemaking.com/design_patterns/singleton/java/2
 </details>
 
 ## Factory

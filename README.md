@@ -25,7 +25,9 @@ The _Observer_ pattern addresses the following problems:
 ### What problems can the _Singleton design pattern_ solve?
 
 The _Singleton_ pattern addresses the following problems:
-
++ Ensure that a class only has one instance
++ Easily access the sole instance of a class
++ Increase reusability
 
 ### Solution
 <details>

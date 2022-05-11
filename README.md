@@ -48,6 +48,7 @@ The _Singleton_ pattern addresses the following problems:
 
 The _Factory_ pattern addresses the following problems:
 
++ Easy to create domains, objects from input paramters
 
 ### Solution
 <details>
@@ -60,7 +61,7 @@ The _Factory_ pattern addresses the following problems:
   <summary>Example with code</summary>
   <br/>
   
-  Ref: 
+  Ref: https://sourcemaking.com/design_patterns/factory_method/java/1
 </details>
 
 ## Chain of reposibility

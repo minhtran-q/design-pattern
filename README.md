@@ -48,7 +48,7 @@ The _Singleton_ pattern addresses the following problems:
 
 The _Factory_ pattern addresses the following problems:
 
-+ Easy to create domains, objects from input paramters
++ Easily create domains, objects from input paramters
 
 ### Solution
 <details>

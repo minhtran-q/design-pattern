@@ -64,7 +64,7 @@ The _Factory_ pattern addresses the following problems:
   Ref: https://sourcemaking.com/design_patterns/factory_method/java/1
 </details>
 
-## Chain of reposibility
+## Chain of resposibility
 ### What problems can the _Chain of reposibility design pattern_ solve?
 
 The _Chain of reposibility_ pattern addresses the following problems:

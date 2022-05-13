@@ -69,6 +69,9 @@ The _Factory_ pattern addresses the following problems:
 
 The _Chain of reposibility_ pattern addresses the following problems:
 
++ Avoid coupling the sender and the receiver
++ Separate a complex receiver to the multiple receivers
+
 ### Solution
 <details>
   <summary>Diagram</summary>

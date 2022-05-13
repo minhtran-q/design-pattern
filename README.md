@@ -91,6 +91,8 @@ The _Chain of reposibility_ pattern addresses the following problems:
 
 The _Builder_ pattern addresses the following problems:
 
++ Create complex object with multiple optinal parameters
++ Create an object with mandatory paramters
 
 ### Solution
 <details>

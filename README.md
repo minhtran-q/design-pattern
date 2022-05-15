@@ -105,5 +105,7 @@ The _Builder_ pattern addresses the following problems:
   <summary>Example with code</summary>
   <br/>
   
-  Ref: 
+  `StringBuilder`
+
+  Ref: https://softwareengineering.stackexchange.com/questions/305504/is-stringbuilder-an-application-of-the-builder-design-pattern#:~:text=The%20builder%20pattern%20is%20an,%2Dpattern%5Bcitation%20needed%5D.
 </details>
